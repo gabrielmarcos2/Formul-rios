@@ -1,0 +1,28 @@
+form{
+    background-color: darkred;
+
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+body{
+    background-color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: aliceblue;
+}
+
+input{
+    color: black;
+
+}
+
+label{
+    color: aliceblue;
+}
+
+
